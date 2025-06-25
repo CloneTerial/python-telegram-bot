@@ -1,0 +1,40 @@
+{
+  "7875419866": {
+    "id": 7875419866,
+    "username": "XYZCLT",
+    "full_name": "C T",
+    "role": {
+      "type": "owner",
+      "expires": null
+    },
+    "registered_at": "2025-06-19T15:02:52.928198",
+    "last_active": "2025-06-19T15:02:52.928198",
+    "store": {
+      "name": "CloneShop",
+      "description": "ct shop",
+      "producks": [
+        {
+          "name": "kentang",
+          "price": 3000.0,
+          "description": "kentang"
+        },
+        {
+          "name": "kentangP",
+          "price": 4000.0,
+          "description": "kentang premium"
+        }
+      ]
+    }
+  },
+  "6002517128": {
+    "id": 6002517128,
+    "username": "CloneTerial",
+    "full_name": "Clone Terial",
+    "role": {
+      "type": "free",
+      "expires": null
+    },
+    "registered_at": "2025-06-22T13:26:06.689499",
+    "last_active": "2025-06-22T13:26:06.689499"
+  }
+}
