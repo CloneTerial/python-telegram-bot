@@ -19,7 +19,7 @@ Proyek ini dirancang dengan pemisahan tugas yang jelas untuk kemudahan pemelihar
 - **`/core`**: Berisi logika bisnis inti, termasuk manajemen pengguna (`User_Manager.py`), keamanan (`security.py`), dan fungsi utilitas lainnya.
 - **`/data`**: Direktori tempat file database JSON (`users.json`, `transaction.json`) disimpan.
 
-## 🚀 Instalasi dan Pengaturan
+## Instalasi dan Pengaturan
 
 Ikuti langkah-langkah ini untuk menjalankan bot di lingkungan lokal Anda.
 
