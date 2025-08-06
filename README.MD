@@ -26,7 +26,7 @@ Ikuti langkah-langkah ini untuk menjalankan bot di lingkungan lokal Anda.
 1.  **Clone Repositori**
 
     ```bash
-    git clone [https://github.com/CloneTerial/python-telegram-bot.git](https://github.com/CloneTerial/python-telegram-bot.git)
+    git clone https://github.com/CloneTerial/python-telegram-bot.git
     cd python-telegram-bot
     ```
 
@@ -92,3 +92,4 @@ Berikut adalah daftar perintah yang tersedia di dalam bot, dikategorikan berdasa
 - **Python 3**
 - **python-telegram-bot**: Pustaka utama untuk berinteraksi dengan Telegram Bot API.
 - **python-dotenv**: Untuk mengelola variabel lingkungan.
+
